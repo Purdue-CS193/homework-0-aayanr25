@@ -1,8 +1,10 @@
+# Aayan's first CS193 Homework
+
 ## Welcome to GitHub Pages
 
 You CAN use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-# Aayan's first CS193 Homework
+## Favorite parts of CS193
 - learning Github
 - the teachers
 - the building class is in
